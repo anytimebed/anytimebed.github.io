@@ -98,3 +98,6 @@ i {
 .social {
   margin: 2% 5% 0 0;
 }
+.social i {
+  color: ivory;
+}
