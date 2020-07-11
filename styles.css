@@ -9,7 +9,7 @@ h2 {
   color: limegreen;
 }
 h4 {
-  font-family: fantasy;
+  font-family: cursive;
 }
 .header {
   width: 100%;
@@ -50,7 +50,7 @@ h4 {
   height: 40vw;
 }
 .text {
-  font-family: fantasy;
+  font-family: cursive;
   font-size: larger;
 }
 .how-elem {
